@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUZHspfF4/zc48zCKLW1pMTCQkPZZhdqWUsaOWqd+2ZwFX9Oo87a+XQmCmho9SFij8lILFtSBCWjuq1eR8q1ow==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\sergi\\Desktop\\test\\StringManipulation.Tests\\StringManipulation.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "xunit.runner.visualstudio"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "xunit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "coverlet.collector"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "Microsoft.Extensions.Logging.Console"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "El origen local \"C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\" no existe.",
+      "libraryId": "Humanizer"
+    }
+  ]
+}
